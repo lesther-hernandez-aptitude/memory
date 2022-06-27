@@ -1,0 +1,6 @@
+**/deps
+/.classpath
+**/.classpath
+.idea/
+.swp
+node_modules
