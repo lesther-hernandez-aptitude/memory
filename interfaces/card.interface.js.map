@@ -1,0 +1,1 @@
+{"version":3,"file":"card.interface.js","sourceRoot":"","sources":["../src/interfaces/card.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface Card {\n    id: number\n    icon: string,\n    selected: boolean\n}"]}
